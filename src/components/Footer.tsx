@@ -7,13 +7,13 @@ export function Footer() {
       <div className="max-w-2xl mx-auto px-6">
         <div className="flex flex-col items-center gap-6">
           <div className="flex gap-6">
-            <SocialLink href="https://github.com/kevinnyingi" icon={<Github />} label="GitHub" />
-            <SocialLink href="https://twitter.com/kevinnyingi" icon={<Twitter />} label="Twitter" />
-            <SocialLink href="https://linkedin.com/in/kevinnyingi" icon={<Linkedin />} label="LinkedIn" />
-            <SocialLink href="mailto:kevin@example.com" icon={<Mail />} label="Email" />
+            <SocialLink href="https://github.com/njagua3" icon={<Github />} label="GitHub" />
+            <SocialLink href="https://x.com/Nj4gua" icon={<Twitter />} label="Twitter" />
+            <SocialLink href="https://www.linkedin.com/in/kevin-nyingi/" icon={<Linkedin />} label="LinkedIn" />
+            <SocialLink href="https://www.njagua.gma@gmail.com" icon={<Mail />} label="Email" />
           </div>
           <p className="text-gray-400 text-sm">
-            Built with React & Tailwind CSS © {new Date().getFullYear()} Kevin Nyingi
+            Built with Passion © {new Date().getFullYear()} Kevin Nyingi
           </p>
         </div>
       </div>
