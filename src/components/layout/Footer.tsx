@@ -1,5 +1,5 @@
 import React from 'react';
-import { Github, Twitter, Mail, Linkedin, BookOpen } from 'lucide-react';
+import { Github, Twitter, Mail, Linkedin, Rss } from 'lucide-react';
 import { SITE_CONFIG } from '../../config/constants';
 import { SocialLink } from '../SocialLink';
 
@@ -12,11 +12,11 @@ export function Footer() {
             <SocialLink href={SITE_CONFIG.social.github} icon={<Github />} label="GitHub" />
             <SocialLink href={SITE_CONFIG.social.twitter} icon={<Twitter />} label="Twitter" />
             <SocialLink href={SITE_CONFIG.social.linkedin} icon={<Linkedin />} label="LinkedIn" />
-            <SocialLink href={SITE_CONFIG.social.medium} icon={<BookOpen />} label="Medium" />
-            <SocialLink href="mailto:kevin@example.com" icon={<Mail />} label="Email" />
+            <SocialLink href={SITE_CONFIG.social.medium} icon={<Rss />} label="Medium" />
+            <SocialLink href="njagua.gma@gmail.com" icon={<Mail />} label="Email" />
           </div>
           <p className="text-gray-600 dark:text-gray-400 text-sm">
-            Built with React & Tailwind CSS © {new Date().getFullYear()} {SITE_CONFIG.name}
+            Built with passion © {new Date().getFullYear()} {SITE_CONFIG.name}
           </p>
         </div>
       </div>

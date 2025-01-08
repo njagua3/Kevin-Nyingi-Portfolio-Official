@@ -4,9 +4,9 @@ export const SITE_CONFIG = {
   location: 'Nairobi',
   profileImage: '/kevin.jpg',
   social: {
-    github: '#',
-    twitter: '#',
-    linkedin: '#',
-    medium: 'https://medium.com/@kevinnyingi'
+    github: 'https://github.com/njagua3',
+    twitter: 'https://x.com/Nj4gua',
+    linkedin: 'https://www.linkedin.com/in/kevin-nyingi/',
+    medium: 'https://medium.com/@njaguanyingikevin'
   }
 } as const;
