@@ -51,7 +51,7 @@ npm run dev
 ```typescript
 export const SITE_CONFIG = {
   // ...
-  profileImage: 'your-image-url-here',
+  profileImage: 'https://prnt.sc/6KNi_iYGWobB',
   // ...
 }
 ```

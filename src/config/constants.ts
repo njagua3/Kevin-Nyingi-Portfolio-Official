@@ -2,7 +2,7 @@ export const SITE_CONFIG = {
   name: 'Kevin Nyingi',
   title: 'Full Stack Developer & SEO Specialist',
   location: 'Nairobi',
-  profileImage: '/profile.jpg',
+  profileImage: '/kevin.jpg',
   social: {
     github: '#',
     twitter: '#',
