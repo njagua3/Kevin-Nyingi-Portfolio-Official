@@ -19,9 +19,7 @@ export function Hero() {
           </h1>
           
           <p className="text-gray-600 dark:text-gray-400 text-lg leading-relaxed animate-slideUp animation-delay-100">
-            Passionate Full Stack Developer & SEO Specialist crafting digital experiences that users love and search engines understand. 
-            With a year of hands-on experience, I blend technical expertise with strategic SEO to build websites that not only look great but perform exceptionally well.
-          </p>
+          Full Stack Developer crafting exceptional digital experiences with React, TypeScript, and modern web technologies. Specializing in building scalable applications with Node.js and Python, while creating pixel-perfect UI/UX with Figma and Tailwind CSS. From responsive frontend designs to robust backend architectures, I transform complex challenges into elegant, user-centric solutions that drive real business impact.  </p>
         </div>
         
         <div className="order-1 md:order-2 transform rotate-3 hover:rotate-0 transition-transform duration-300">
