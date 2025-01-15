@@ -10,8 +10,7 @@ export function Footer() {
             <SocialLink href="https://github.com/njagua3" icon={<Github />} label="GitHub" />
             <SocialLink href="https://x.com/Nj4gua" icon={<Twitter />} label="Twitter" />
             <SocialLink href="https://www.linkedin.com/in/kevin-nyingi/" icon={<Linkedin />} label="LinkedIn" />
-            <SocialLink href="https://mail.google.com/mail/?view=cm&fs=1&to=njagua.gma@gmail.com&su=Subject+Here&body=Message+Body+Here"
- icon={<Mail />} label="Email" />
+            <SocialLink href="mailto:njagua.gma@gmail.com" icon={<Mail />} label="Email" />
           </div>
           <p className="text-gray-400 text-sm">
             Built with Passion © {new Date().getFullYear()} Kevin Nyingi
