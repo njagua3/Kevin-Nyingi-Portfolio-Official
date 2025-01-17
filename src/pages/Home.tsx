@@ -53,7 +53,7 @@ export function Home() {
           />
           <ProjectCard 
             title="Safiri Kenya"
-            description="A seamless travel platform offering destination guides, travel tips, and essential information for exploring Kenya effortlessly."
+            description="A seamless travel platform offering destination guides, travel tips, and essential information for exploring Kenya's culture effortlessly."
             technologies={["React", "Javascript", "Tailwind CSS", "Unsplash"]}
             liveUrl="https://safirike.netlify.app/"
             githubUrl="#"
