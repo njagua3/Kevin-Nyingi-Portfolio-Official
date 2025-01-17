@@ -27,7 +27,7 @@ export function Home() {
           <ProjectCard 
             title="Vagi Fashion E-commerce"
             description="A modern e-commerce platform with real-time inventory management, secure payments, and personalized shopping experiences. Implemented advanced SEO techniques resulting in a 40% increase in organic traffic."
-            technologies={["Supabase", "Javascript", "Typescript", "Tailwind CSS", "Lucide React"]}
+            technologies={["Supabase", "Javascript", "Typescript", "Tailwind CSS", "Lucide Icons"]}
             liveUrl="#"
             githubUrl="#"
             icon={<ShoppingBag className="w-6 h-6" />}
@@ -45,7 +45,7 @@ export function Home() {
           <ProjectCard 
             title="Moringa Project Tracker"
             description="A collaborative project management tool designed specifically for Moringa School, enabling students and instructors to track project progress, share resources, and manage deadlines effectively."
-            technologies={["React", "Flask", "Material-UI", "Lucide React"]}
+            technologies={["React", "Flask", "Material-UI", "Lucide Icons"]}
             liveUrl="https://moringaschool.netlify.app/"
             githubUrl="#"
             icon={<ClipboardList className="w-6 h-6" />}
