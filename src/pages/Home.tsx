@@ -37,8 +37,8 @@ export function Home() {
             title="Property Management App"
             description="A comprehensive property management solution that streamlines tenant communication, maintenance requests, and rent collection. Features include automated billing, maintenance tracking, and detailed financial reporting."
             technologies={["React", "Express", "MongoDB", "Socket.io"]}
-            liveUrl="#"
-            githubUrl="#"
+            liveUrl="https://ringbeltagents.netlify.app/"
+            githubUrl="https://github.com/njagua3/Ringbelt_Agents"
             icon={<Building className="w-6 h-6" />}
             image="https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80"
           />
@@ -46,16 +46,16 @@ export function Home() {
             title="Moringa Project Tracker"
             description="A collaborative project management tool designed specifically for Moringa School, enabling students and instructors to track project progress, share resources, and manage deadlines effectively."
             technologies={["React", "Firebase", "Material-UI", "Charts.js"]}
-            liveUrl="#"
+            liveUrl="https://moringaschool.netlify.app/"
             githubUrl="#"
             icon={<ClipboardList className="w-6 h-6" />}
             image="https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?auto=format&fit=crop&w=800&q=80"
           />
           <ProjectCard 
-            title="Inventory Management System"
-            description="A robust inventory management solution with features including real-time stock tracking, automated reordering, barcode scanning, and detailed analytics for business intelligence."
-            technologies={["Vue.js", "Node.js", "MySQL", "Docker"]}
-            liveUrl="#"
+            title="Safiri Kenya"
+            description="A seamless travel platform offering destination guides, travel tips, and essential information for exploring Kenya effortlessly."
+            technologies={["React", "Javascript", "Tailwind CSS", "Docker"]}
+            liveUrl="https://safirike.netlify.app/"
             githubUrl="#"
             icon={<Package className="w-6 h-6" />}
             image="https://images.unsplash.com/photo-1553413077-190dd305871c?auto=format&fit=crop&w=800&q=80"
