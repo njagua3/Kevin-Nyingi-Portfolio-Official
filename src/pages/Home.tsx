@@ -27,16 +27,16 @@ export function Home() {
           <ProjectCard 
             title="Vagi Fashion E-commerce"
             description="A modern e-commerce platform with real-time inventory management, secure payments, and personalized shopping experiences. Implemented advanced SEO techniques resulting in a 40% increase in organic traffic."
-            technologies={["Next.js", "Node.js", "PostgreSQL", "Stripe", "SEO"]}
+            technologies={["Supabase", "Javascript", "Typescript", "Tailwind CSS", "Lucide React"]}
             liveUrl="#"
             githubUrl="#"
             icon={<ShoppingBag className="w-6 h-6" />}
             image="https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=800&q=80"
           />
           <ProjectCard 
-            title="Property Management App"
+            title="Property Management"
             description="A comprehensive property management solution that streamlines tenant communication, maintenance requests, and rent collection. Features include automated billing, maintenance tracking, and detailed financial reporting."
-            technologies={["React", "Express", "MongoDB", "Socket.io"]}
+            technologies={["React", "Javascript", "Unsplash", "Tailwind CSS"]}
             liveUrl="https://ringbeltagents.netlify.app/"
             githubUrl="https://github.com/njagua3/Ringbelt_Agents"
             icon={<Building className="w-6 h-6" />}
