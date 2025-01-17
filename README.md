@@ -1,5 +1,7 @@
 # Kevin Nyingi's Portfolio
 
+https://njaguanyingi.netlify.app/
+
 A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS.
 
 ## 🚀 Features
