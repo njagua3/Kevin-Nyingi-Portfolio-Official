@@ -45,7 +45,7 @@ export function Home() {
           <ProjectCard 
             title="Moringa Project Tracker"
             description="A collaborative project management tool designed specifically for Moringa School, enabling students and instructors to track project progress, share resources, and manage deadlines effectively."
-            technologies={["React", "Firebase", "Material-UI", "Charts.js"]}
+            technologies={["React", "Flask", "Material-UI", "Lucide React"]}
             liveUrl="https://moringaschool.netlify.app/"
             githubUrl="#"
             icon={<ClipboardList className="w-6 h-6" />}
@@ -54,11 +54,11 @@ export function Home() {
           <ProjectCard 
             title="Safiri Kenya"
             description="A seamless travel platform offering destination guides, travel tips, and essential information for exploring Kenya effortlessly."
-            technologies={["React", "Javascript", "Tailwind CSS", "Docker"]}
+            technologies={["React", "Javascript", "Tailwind CSS", "Unsplash"]}
             liveUrl="https://safirike.netlify.app/"
             githubUrl="#"
             icon={<Package className="w-6 h-6" />}
-            image="https://images.unsplash.com/photo-1553413077-190dd305871c?auto=format&fit=crop&w=800&q=80"
+            image="https://plus.unsplash.com/premium_photo-1664302700377-d544c98a8a51?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&w=800&q=80"
           />
         </div>
       </section>
