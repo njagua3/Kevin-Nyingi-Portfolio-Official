@@ -92,3 +92,8 @@ export const SITE_CONFIG = {
 }
 ```
 
+Features to add in the future
+
+A section for the certifications alongside their Credential ID
+Highlight my medium blog more
+Finish the vagi fashion ecommerce site
