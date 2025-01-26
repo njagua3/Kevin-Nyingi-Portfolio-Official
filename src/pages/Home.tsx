@@ -13,9 +13,9 @@ export function Home() {
   return (
     <>
       <Hero />
+      <Quote />
       <About />
       <Resume />
-      <Quote />
       <Skills />
       
       <section id="work" className="py-16 animate-fadeIn animation-delay-200">
