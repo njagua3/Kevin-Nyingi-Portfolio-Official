@@ -25,9 +25,7 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 ## 🏃‍♂️ Getting Started
 
 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/portfolio.git
-```
+
 
 2. Install dependencies
 ```bash
@@ -97,3 +95,5 @@ Features to add in the future
 A section for the certifications alongside their Credential ID
 Highlight my medium blog more
 Finish the vagi fashion ecommerce site
+add 2 more featured work
+section for figma design
