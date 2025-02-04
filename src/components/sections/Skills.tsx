@@ -1,5 +1,5 @@
-import React from 'react';
-import { Code2, Layout, Database, Terminal, Palette, Cloud } from 'lucide-react';
+//import React from 'react';
+import { Code2, Layout, Database, Palette, Cloud } from 'lucide-react';
 
 const skills = [
   {
