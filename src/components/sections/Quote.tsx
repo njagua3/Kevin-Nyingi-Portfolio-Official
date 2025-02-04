@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 import { Quote as QuoteIcon } from 'lucide-react';
 
 export function Quote() {

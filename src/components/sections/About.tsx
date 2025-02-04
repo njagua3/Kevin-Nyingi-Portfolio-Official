@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { User, Zap, Target, Code2 } from 'lucide-react';
 
 export function About() {

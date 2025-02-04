@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ProfileImage } from '../ProfileImage';
 import { Clock } from '../Clock';
 import { Availability } from '../Availability';

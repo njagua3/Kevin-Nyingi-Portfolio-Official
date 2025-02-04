@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 import { Mail, Send } from 'lucide-react';
 
 export function Contact() {
