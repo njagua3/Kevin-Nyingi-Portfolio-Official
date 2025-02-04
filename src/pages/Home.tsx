@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 import { Hero } from '../components/sections/Hero';
 import { About } from '../components/sections/About';
 import { Resume } from '../components/sections/Resume';
@@ -24,6 +24,15 @@ export function Home() {
           Featured Work
         </h2>
         <div className="space-y-8">
+        <ProjectCard 
+            title="Trello Clone"
+            description="A sleek project management platform with intuitive boards, real-time collaboration, and seamless task tracking. Equipped with powerful integrations and automation, it optimizes workflows and enhances team productivity."
+            technologies={["Supabase", "Javascript", "Typescript", "Tailwind CSS", "React JS"]}
+            liveUrl="#"
+            githubUrl="#"
+            icon={<ShoppingBag className="w-6 h-6" />}
+            image="https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2plY3QlMjBtYW5hZ2VtZW50fGVufDB8fDB8fHww?auto=format&fit=crop&w=800&q=80"
+          />
           <ProjectCard 
             title="Vagi Fashion E-commerce"
             description="A modern e-commerce platform with real-time inventory management, secure payments, and personalized shopping experiences. Implemented advanced SEO techniques resulting in a 40% increase in organic traffic."

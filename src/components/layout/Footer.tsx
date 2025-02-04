@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 import { Github, Twitter, Mail, Linkedin, Rss } from 'lucide-react';
 import { SITE_CONFIG } from '../../config/constants';
 import { SocialLink } from '../SocialLink';

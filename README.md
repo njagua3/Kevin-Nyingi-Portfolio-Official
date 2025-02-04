@@ -28,14 +28,14 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 
 
 2. Install dependencies
-```bash
+
 npm install
-```
+
 
 3. Start the development server
-```bash
+
 npm run dev
-```
+
 
 ## 📝 Customization
 
@@ -48,13 +48,13 @@ npm run dev
 ### Updating Profile Picture
 
 1. Replace the image URL in `src/config/constants.ts`:
-```typescript
+
 export const SITE_CONFIG = {
-  // ...
+  
   profileImage: 'https://prnt.sc/6KNi_iYGWobB',
-  // ...
+  
 }
-```
+
 
 ### Responsive Breakpoints
 
@@ -76,7 +76,7 @@ The portfolio is built with a mobile-first approach, ensuring:
 ## 🔧 Configuration
 
 Update your personal information in `src/config/constants.ts`:
-```typescript
+
 export const SITE_CONFIG = {
   name: 'Your Name',
   title: 'Your Title',
@@ -88,7 +88,7 @@ export const SITE_CONFIG = {
     medium: 'your-medium-url'
   }
 }
-```
+
 
 Features to add in the future
 
