@@ -25,22 +25,22 @@ export function Home() {
         </h2>
         <div className="space-y-8">
         <ProjectCard 
-            title="Trello Clone"
-            description="A sleek project management platform with intuitive boards, real-time collaboration, and seamless task tracking. Equipped with powerful integrations and automation, it optimizes workflows and enhances team productivity."
+            title="ReservEase App"
+            description="An online reservation system designed to streamline booking and scheduling processes. The platform provides a user-friendly interface for managing reservations efficiently, ensuring a seamless experience for both businesses and customers."
             technologies={["Supabase", "Javascript", "Typescript", "Tailwind CSS", "React JS"]}
-            liveUrl="#"
+            liveUrl="https://reserveease.netlify.app/"
             githubUrl="#"
             icon={<ShoppingBag className="w-6 h-6" />}
-            image="https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2plY3QlMjBtYW5hZ2VtZW50fGVufDB8fDB8fHww?auto=format&fit=crop&w=800&q=80"
+            image="https://plus.unsplash.com/premium_vector-1727401287451-1b6fe008ed8e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dGFibGUlMjByZXNlcnZhdGlvbnxlbnwwfHwwfHx8MA%3D%3D?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2plY3QlMjBtYW5hZ2VtZW50fGVufDB8fDB8fHww?auto=format&fit=crop&w=800&q=80"
           />
           <ProjectCard 
-            title="Vagi Fashion E-commerce"
+            title="Landing Page"
             description="A modern e-commerce platform with real-time inventory management, secure payments, and personalized shopping experiences. Implemented advanced SEO techniques resulting in a 40% increase in organic traffic."
-            technologies={["Supabase", "Javascript", "Typescript", "Tailwind CSS", "Lucide Icons"]}
-            liveUrl="#"
+            technologies={["Javascript", "Typescript", "Tailwind CSS", "Lucide Icons"]}
+            liveUrl="https://marynyingi.netlify.app/"
             githubUrl="#"
             icon={<ShoppingBag className="w-6 h-6" />}
-            image="https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=800&q=80"
+            image="https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWVjaGFuaWNhbCUyMGVuZ2luZWVyaW5nfGVufDB8fDB8fHww?auto=format&fit=crop&w=800&q=80"
           />
           <ProjectCard 
             title="Property Management"
@@ -54,7 +54,7 @@ export function Home() {
           <ProjectCard 
             title="Moringa Project Tracker"
             description="A collaborative project management tool designed specifically for Moringa School, enabling students and instructors to track project progress, share resources, and manage deadlines effectively."
-            technologies={["React", "Flask", "Material-UI", "Lucide Icons"]}
+            technologies={["React", "Flask", "Javascript", "Material-UI", "Lucide Icons"]}
             liveUrl="https://moringaschool.netlify.app/"
             githubUrl="#"
             icon={<ClipboardList className="w-6 h-6" />}
