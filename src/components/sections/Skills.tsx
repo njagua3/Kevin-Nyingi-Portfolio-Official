@@ -10,7 +10,7 @@ const skills = [
   {
     category: "Backend Development",
     icon: <Database className="w-6 h-6" />,
-    items: ["Python", "Flask", "Node.js", "RESTful APIs", "NoSQL DBs", "API Testing"]
+    items: ["Python", "Flask", "Node.js", "RESTful APIs", "MySQL", "API Testing"]
   },
   {
     category: "Design & UI/UX",
