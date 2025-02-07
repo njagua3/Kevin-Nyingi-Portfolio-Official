@@ -34,8 +34,8 @@ export function Home() {
             image="https://plus.unsplash.com/premium_vector-1727401287451-1b6fe008ed8e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dGFibGUlMjByZXNlcnZhdGlvbnxlbnwwfHwwfHx8MA%3D%3D?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2plY3QlMjBtYW5hZ2VtZW50fGVufDB8fDB8fHww?auto=format&fit=crop&w=800&q=80"
           />
           <ProjectCard 
-            title="Landing Page"
-            description="A modern e-commerce platform with real-time inventory management, secure payments, and personalized shopping experiences. Implemented advanced SEO techniques resulting in a 40% increase in organic traffic."
+            title="Portfolio Website"
+            description="A personal website showcasing Mary Nyingi`s skills, projects, and professional background. It highlights her expertise, experience, and creative work in a visually appealing and user-friendly manner."
             technologies={["Javascript", "Typescript", "Tailwind CSS", "Lucide Icons"]}
             liveUrl="https://marynyingi.netlify.app/"
             githubUrl="#"
