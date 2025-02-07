@@ -31,7 +31,7 @@ export function Home() {
             liveUrl="https://reserveease.netlify.app/"
             githubUrl="#"
             icon={<ShoppingBag className="w-6 h-6" />}
-            image="https://plus.unsplash.com/premium_vector-1727401287451-1b6fe008ed8e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dGFibGUlMjByZXNlcnZhdGlvbnxlbnwwfHwwfHx8MA%3D%3D?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2plY3QlMjBtYW5hZ2VtZW50fGVufDB8fDB8fHww?auto=format&fit=crop&w=800&q=80"
+            image="https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWwlMjBkaW5pbmd8ZW58MHx8MHx8fDA%3D?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dGFibGUlMjByZXNlcnZhdGlvbnxlbnwwfHwwfHx8MA%3D%3D?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2plY3QlMjBtYW5hZ2VtZW50fGVufDB8fDB8fHww?auto=format&fit=crop&w=800&q=80"
           />
           <ProjectCard 
             title="Portfolio Website"
@@ -43,7 +43,7 @@ export function Home() {
             image="https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWVjaGFuaWNhbCUyMGVuZ2luZWVyaW5nfGVufDB8fDB8fHww?auto=format&fit=crop&w=800&q=80"
           />
           <ProjectCard 
-            title="Property Management"
+            title="Property Management Website"
             description="A comprehensive property management solution that streamlines tenant communication, maintenance requests, and rent collection. Features include automated billing, maintenance tracking, and detailed financial reporting."
             technologies={["React", "Javascript", "Unsplash", "Tailwind CSS"]}
             liveUrl="https://ringbeltagents.netlify.app/"
@@ -61,7 +61,7 @@ export function Home() {
             image="https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?auto=format&fit=crop&w=800&q=80"
           />
           <ProjectCard 
-            title="Safiri Kenya"
+            title="Safiri Kenya - Travelling Agency"
             description="A seamless travel platform offering destination guides, travel tips, and essential information for exploring Kenya's culture effortlessly."
             technologies={["React", "Javascript", "Tailwind CSS", "Unsplash"]}
             liveUrl="https://safirike.netlify.app/"

@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 import { SITE_CONFIG } from '../config/constants';
 
 export function ProfileImage() {

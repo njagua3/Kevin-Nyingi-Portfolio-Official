@@ -5,7 +5,7 @@ export const SITE_CONFIG = {
   profileImage: '/kevin.jpg',
   social: {
     github: 'https://github.com/njagua3',
-    twitter: 'https://x.com/Nj4gua',
+    twitter: 'https://x.com/',
     linkedin: 'https://www.linkedin.com/in/kevin-nyingi/',
     medium: 'https://medium.com/@njaguanyingikevin'
   }
