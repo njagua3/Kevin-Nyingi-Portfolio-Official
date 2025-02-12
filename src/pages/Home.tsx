@@ -28,7 +28,7 @@ export function Home() {
             title="ReservEase App"
             description="An online reservation system designed to streamline booking and scheduling processes. The platform provides a user-friendly interface for managing reservations efficiently, ensuring a seamless experience for both businesses and customers."
             technologies={["Supabase", "Javascript", "Typescript", "Tailwind CSS", "React JS"]}
-            liveUrl="https://reserveease.netlify.app/"
+            liveUrl="https://reserveaseapp.netlify.app/"
             githubUrl="#"
             icon={<ShoppingBag className="w-6 h-6" />}
             image="https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWwlMjBkaW5pbmd8ZW58MHx8MHx8fDA%3D?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dGFibGUlMjByZXNlcnZhdGlvbnxlbnwwfHwwfHx8MA%3D%3D?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2plY3QlMjBtYW5hZ2VtZW50fGVufDB8fDB8fHww?auto=format&fit=crop&w=800&q=80"
