@@ -15,7 +15,7 @@ const skills = [
   {
     category: "Design & UI/UX",
     icon: <Palette className="w-6 h-6" />,
-    items: ["Figma", "Canva", "Logo Design", "Framer", "UI Wireframing", "WordPress"]
+    items: ["Figma", "Webflow", "Bubble.io", "Canva", "Logo Design", "Framer", "WordPress"]
   },
   {
     category: "DevOps & Tools",
