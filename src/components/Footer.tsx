@@ -8,7 +8,7 @@ export function Footer() {
         <div className="flex flex-col items-center gap-6">
           <div className="flex gap-6">
             <SocialLink href="https://github.com/njagua3" icon={<Github />} label="GitHub" />
-            <SocialLink href="https://x.com/Nj4gua" icon={<Twitter />} label="Twitter" />
+            <SocialLink href="https://x.com/" icon={<Twitter />} label="Twitter" />
             <SocialLink href="https://www.linkedin.com/in/kevin-nyingi/" icon={<Linkedin />} label="LinkedIn" />
             <SocialLink href="mailto:njagua.gma@gmail.com" icon={<Mail />} label="Email" />
           </div>
